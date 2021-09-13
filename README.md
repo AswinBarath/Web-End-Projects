@@ -1,6 +1,6 @@
 # Front-end-projects
 
-- [Image Portfolio](#Image Portfolio)
+- [Image Portfolio](#Image-Portfolio)
 - [Book-Information-2.0](#Book-Information-2.0)
 - [Book-Information](#Book-Information)
 
