@@ -1,11 +1,26 @@
 # Front-end-projects
 
+- [Cool Cursor](#Cool-Cursor)
 - [Signup Page](#Signup-Page)
 - [Layout Template](#Layout-Template)
 - [Robot Friend](#Robot-friend)
 - [Image Portfolio](#Image-Portfolio)
 - [Book-Information-2.0](#Book-Information-2.0)
 - [Book-Information](#Book-Information)
+
+---
+
+## Cool Cursor
+
+- [Github Repository](https://github.com/AswinBarath/Cool-cursor)
+- [Deployed Link](https://aswinbarath.github.io/Cool-cursor/)
+
+
+<p>
+<img src="assets/Cool Cursor.png" alt="Cool Cursor" width="400px" />
+
+<img src="assets/Cool Cursor.gif" alt="Cool Cursor" width="400px" />
+</p>
 
 ---
 
