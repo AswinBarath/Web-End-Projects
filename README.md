@@ -6,8 +6,8 @@
 
 ## Book-Information
 
-- ![Github Repository](https://github.com/AswinBarath/Book-Information)
-- ![Deployed Link](https://aswinbarath.github.io/Book-Information/)
+- [Github Repository](https://github.com/AswinBarath/Book-Information)
+- [Deployed Link](https://aswinbarath.github.io/Book-Information/)
 
 
 <p>
