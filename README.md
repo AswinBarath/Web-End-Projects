@@ -1,9 +1,39 @@
 # Front-end-projects
 
+- [Signup Page](#Signup-Page)
+- [Layout Template](#Layout-Template)
 - [Robot Friend](#Robot-friend)
 - [Image Portfolio](#Image-Portfolio)
 - [Book-Information-2.0](#Book-Information-2.0)
 - [Book-Information](#Book-Information)
+
+---
+
+## Signup Page
+
+- [Github Repository](https://github.com/AswinBarath/Sign-up-page)
+- [Deployed Link](https://aswinbarath.github.io/Sign-up-page/)
+
+
+<p>
+<img src="assets/Signup Page.png" alt="Signup Page" width="400px" />
+
+<img src="assets/Signup Page.gif" alt="Signup Page" width="400px" />
+</p>
+
+---
+
+## Layout Template
+
+- [Github Repository](https://github.com/AswinBarath/Layout-template)
+- [Deployed Link](https://aswinbarath.github.io/Layout-template/)
+
+
+<p>
+<img src="assets/Layout Template.png" alt="Layout Template" width="400px" />
+
+<img src="assets/Layout Template.gif" alt="Layout Template" width="400px" />
+</p>
 
 ---
 
