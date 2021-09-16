@@ -3,11 +3,11 @@
 > "Web-End" tries to unify "Front-End" and "Back-End" in a better and more focused way than "Full Stack" does, 
 because it keeps the focus more squarely on what's web experience related.
 >
-- Web-end means you deal with anything web related, whether that be in the browser or on the server. 
-- So building web-consumed APIs (REST, GraphQL) is web-end. Writing React code is web-end. 
-- Writing libraries or frameworks (for Node or the browser) is web-end. 
-- Optimizing performance or monitoring security for web apps is web-end. 
-- Even managing containers for web app deployments is web-end.
+> - Web-end means you deal with anything web related, whether that be in the browser or on the server. 
+> - So building web-consumed APIs (REST, GraphQL) is web-end. Writing React code is web-end. 
+> - Writing libraries or frameworks (for Node or the browser) is web-end. 
+> - Optimizing performance or monitoring security for web apps is web-end. 
+> - Even managing containers for web app deployments is web-end.
 >
 > Kyle Simpson
 
