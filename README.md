@@ -21,7 +21,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [SQL Injection and Prevention (LAMP Stack)](#sql-injection-and-prevention) | [](#) | [](#) | [Picture in Picture App](#picture-in-picture-app) | [Book-Information-2.0](#Book-Information-2.0) |
 | [Event Timeline](#event-timeline) | [](#) | [](#) | [Infinite Scroll](#infinite-scroll) | [Book-Information](#Book-Information) |
 | [Clothing e-Commerce App (MERN Stack)](#clothing-e-commerce-app) | [](#) | [](#) | [Photo Sharing App](#photo-sharing-app) | [](#) |
-| [](#) | [](#) | [](#) | [Joke Teller App](#joke-teller) | [](#) |
+| [](#) | [](#) | [](#) | [Joke Teller App](#joke-teller-app) | [](#) |
 | [](#) | [](#) | [](#) | [Authentication Boilerplate](#authentication-boilerplate) | [](#) |
 | [](#) | [](#) | [](#) | [To Do With Auth](#to-do-with-auth) | [](#) |
 | [](#) | [](#) | [](#) | [Calendar Project](#calendar-project) | [](#) |
