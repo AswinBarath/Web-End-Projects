@@ -50,9 +50,9 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/Smart-brain-app) | [Deployed Link](https://smart-brain-26.herokuapp.com/) |
 | --- | --- |
 
-<!-- | Project Cover Design | Project Demo |
+| Project Cover Design | Project Demo |
 | --- | --- |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+| <p><img src="https://aswinbarath.me/static/ebd117324887bf63536c42a5e2a028ab/43fa5/Smart-brain-react-app.png" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> |
 
 ---
 
@@ -144,9 +144,9 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/Robofriends) | [Deployed Link](https://aswinbarath.github.io/robofriends/) |
 | --- | --- |
 
-<!-- | Project Cover Design | Project Demo |
+| Project Cover Design | Project Demo |
 | --- | --- |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+| <p><img src="https://aswinbarath.me/static/c2ee2431b10877ce6868c498b436e319/43fa5/robofriends.png" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> |
 
 --- 
 
