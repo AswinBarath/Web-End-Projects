@@ -40,7 +40,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/ju-query) | [Deployed Link](https://ju-query.web.app/) |
 | --- | --- |
 | Project Cover Design | Project Demo |
-| <p><img src="https://github.com/AswinBarath/ju-query/raw/main/assets/screenshots/JU%20Query%20Registration%20Page.png" alt="" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/ju-query/blob/main/assets/demo/JU-Query-Ask-Answer-Normal-Google-OAuth.gif?raw=true" alt="" width="600px" /> </p> |
+| <p><img src="https://github.com/AswinBarath/ju-query/raw/main/assets/JU%20Query%20Cover%20Design.png" alt="" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/ju-query/blob/main/assets/demo/JU-Query-Ask-Answer-Normal-Google-OAuth.gif?raw=true" alt="" width="600px" /> </p> |
 
 ---
 
