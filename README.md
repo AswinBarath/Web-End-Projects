@@ -49,7 +49,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/Smart-brain-app) | [Deployed Link](https://smart-brain-26.herokuapp.com/) |
 | --- | --- |
 | Project Cover Design | Project Demo |
-| <p><img src="https://aswinbarath.me/static/ebd117324887bf63536c42a5e2a028ab/43fa5/Smart-brain-react-app.png" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> |
+| <p><img src="https://aswinbarath.me/static/ebd117324887bf63536c42a5e2a028ab/43fa5/Smart-brain-react-app.png" alt="Smart Brain App Cover Design" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/Smart-brain-app/raw/main/assets/Smart%20brain%20React%20app%20demo-min.gif" alt="Smart Brain App Demo" width="600px" /> </p> |
 
 ---
 
