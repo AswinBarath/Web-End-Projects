@@ -127,7 +127,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/Robofriends) | [Deployed Link](https://aswinbarath.github.io/robofriends/) |
 | --- | --- |
 | Project Cover Design | Project Demo |
-| <p><img src="https://aswinbarath.me/static/c2ee2431b10877ce6868c498b436e319/43fa5/robofriends.png" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> |
+| <p><img src="https://github.com/AswinBarath/robofriends/raw/main/assets/Robofriends%20Cover%20Design.png" alt="Robofriends Cover Design" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/robofriends/raw/main/assets/Robofriends%20Demo.gif" alt="Robofriends Demo" width="600px" /> </p> |
 
 --- 
 
