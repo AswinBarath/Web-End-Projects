@@ -192,32 +192,14 @@ because it keeps the focus more squarely on what's web experience related.
 
 | [Github Repository](https://github.com/AswinBarath/aswinbarath.github.io) | [Deployed Link](https://aswinbarath.github.io/) |
 | --- | --- |
-<!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+| Project Cover Design | Project Demo |
+| <p><img src="" alt="Blogfolio Website Cover Design" width="600px" /></p> | <p><img src="" alt="Blogfolio Website Demo" width="600px" /> </p> |
 
 ---
 
 ### Dynamic Chat App
 
 | [Github Repository](https://github.com/AswinBarath/Dynamic-chat-app) | [Deployed Link](https://dynamic-chat-app.web.app/) |
-| --- | --- |
-<!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
-
----
-
-### Background Generator
-
-| [Github Repository](https://github.com/AswinBarath/Background-generator) | [Deployed Link](https://aswinbarath.github.io/Background-generator/) |
-| --- | --- |
-<!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
-
----
-
-### Calendar Project
-
-| [Github Repository](https://github.com/AswinBarath/calendar-project) | [Deployed Link](https://aswinbarath.github.io/calendar-project/) |
 | --- | --- |
 <!-- | Project Cover Design | Project Demo |
 | <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
@@ -242,18 +224,18 @@ because it keeps the focus more squarely on what's web experience related.
 
 ---
 
-### Joke Teller App
+### Photo Sharing App
 
-| [Github Repository](https://github.com/AswinBarath/Joke-teller) | [Deployed Link](https://aswinbarath.github.io/Joke-teller/) |
+| [Github Repository](https://github.com/AswinBarath/photo-sharing-app) | [Deployed Link](https://photo-sharing-app-1dd43.web.app/) |
 | --- | --- |
 <!-- | Project Cover Design | Project Demo |
 | <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
 
 ---
 
-### Photo Sharing App
+### Joke Teller App
 
-| [Github Repository](https://github.com/AswinBarath/photo-sharing-app) | [Deployed Link](https://photo-sharing-app-1dd43.web.app/) |
+| [Github Repository](https://github.com/AswinBarath/Joke-teller) | [Deployed Link](https://aswinbarath.github.io/Joke-teller/) |
 | --- | --- |
 <!-- | Project Cover Design | Project Demo |
 | <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
@@ -302,6 +284,26 @@ because it keeps the focus more squarely on what's web experience related.
 | --- | --- |
 | Project Cover Design | Project Demo |
 | <p><img src="assets/Signup Page.png" alt="Signup Page" width="600px" /></p> | <p><img src="assets/Signup Page.gif" alt="Signup Page" width="600px" /></p> |
+
+---
+
+### Background Generator
+
+| [Github Repository](https://github.com/AswinBarath/Background-generator) | [Deployed Link](https://aswinbarath.github.io/Background-generator/) |
+| --- | --- |
+<!-- | Project Cover Design | Project Demo |
+| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+
+---
+
+### Calendar Project
+
+| [Github Repository](https://github.com/AswinBarath/calendar-project) | [Deployed Link](https://aswinbarath.github.io/calendar-project/) |
+| --- | --- |
+<!-- | Project Cover Design | Project Demo |
+| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+
+---
 
 ---
 ---
