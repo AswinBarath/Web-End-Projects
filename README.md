@@ -96,8 +96,8 @@ because it keeps the focus more squarely on what's web experience related.
 
 | [Github Repository](https://github.com/AswinBarath/Tweet-stream) | [Deployed Link]() |
 | --- | --- |
-<!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+| Project Cover Design | Project Demo |
+| <p><img src="https://github.com/AswinBarath/Tweet-stream/raw/main/assets/Tweet%20Stream%20Cover%20Design.png" alt="Tweet Stream Cover Design" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/Tweet-stream/raw/main/assets/Tweet%20Stream%20Demo.gif" alt="Tweet Stream Demo" width="600px" /> </p> |
 
 ---
 
@@ -105,8 +105,8 @@ because it keeps the focus more squarely on what's web experience related.
 
 | [Github Repository](https://github.com/AswinBarath/Timestamp-Microservice) | [Deployed Link](https://timestamp-microservice-nodeapi.herokuapp.com/) |
 | --- | --- |
-<!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+| Project Cover Design | Project Demo |
+| <p><img src="https://github.com/AswinBarath/Timestamp-Microservice/raw/main/assets/Timestamp%20Microservice%20Cover%20Design.png" alt="Timestamp Microservice Cover Design" width="600px" /></p> | <p><img src="" alt="Timestamp Microservice Demo" width="600px" /> </p> |
 
 ---
 
@@ -115,7 +115,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/Login-Microservice) | [Deployed Link](https://login-microservice-fcc.herokuapp.com/) |
 | --- | --- |
 | Project Cover Design | Project Demo |
-| <p><img src="https://raw.githubusercontent.com/AswinBarath/Login-Microservice/main/public/Login%20Microservice.png" alt="Login-Microservice" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> |
+| <p><img src="https://raw.githubusercontent.com/AswinBarath/Login-Microservice/main/public/Login%20Microservice.png" alt="Login-Microservice Cover Design" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/Login-Microservice/raw/main/public/Login%20Microservice.gif" alt="Login Microservice Demo" width="600px" /> </p> |
 
 ---
 ---
