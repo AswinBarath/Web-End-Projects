@@ -40,7 +40,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/ju-query) | [Deployed Link](https://ju-query.web.app/) |
 | --- | --- |
 | Project Cover Design | Project Demo |
-| <p><img src="https://github.com/AswinBarath/ju-query/raw/main/assets/JU%20Query%20Cover%20Design.png" alt="" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/ju-query/blob/main/assets/demo/JU-Query-Ask-Answer-Normal-Google-OAuth.gif?raw=true" alt="" width="600px" /> </p> |
+| <p><img src="https://github.com/AswinBarath/ju-query/raw/main/assets/JU%20Query%20Cover%20Design.png" alt="JU Query Project Cover Design" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/ju-query/blob/main/assets/demo/JU-Query-Ask-Answer-Normal-Google-OAuth.gif?raw=true" alt="JU Query Project Demo" width="600px" /> </p> |
 
 ---
 
@@ -57,8 +57,8 @@ because it keeps the focus more squarely on what's web experience related.
 
 | [Github Repository](https://github.com/AswinBarath/User-Management-Web-App) | [Deployed Link]() |
 | --- | --- |
-<!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+| Project Cover Design | Project Demo |
+| <p><img src="https://github.com/AswinBarath/User-Management-Web-App/raw/main/assets/logo/User%20Mng%20CRUD%20App%20Cover%20Design.png" alt="User Mangement Cover Design" width="600px" /></p> | <p><img src="" alt="User Management Demo" width="600px" /> </p> |
 
 ---
 
@@ -67,7 +67,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/sql-injection-and-prevention) | [Deployed Link](https://sql-injection-and-prevention.herokuapp.com/) |
 | --- | --- |
 | Project Cover Design | Project Demo |
-| <p><img src="https://github.com/AswinBarath/sql-injection-and-prevention/raw/main/public/assets/SQL%20Injection.png" alt="" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/sql-injection-and-prevention/raw/main/public/assets/SQL%20Injection%20Login.gif" alt="" width="600px" /> </p> |
+| <p><img src="https://github.com/AswinBarath/sql-injection-and-prevention/raw/main/public/assets/SQL%20Injection.png" alt="SQL Injection and Prevention Project Cover Design" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/sql-injection-and-prevention/raw/main/public/assets/SQL%20Injection%20Login.gif" alt="SQL Injection and Prevention Project Demo" width="600px" /> </p> |
 
 ---
 
@@ -76,7 +76,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/Event-Timeline) | [Deployed Link](https://event-timeline.ashwin26.repl.co/) |
 | --- | --- |
 | Project Cover Design | Project Demo |
-| <p><img src="https://github.com/AswinBarath/Event-Timeline/raw/main/assets/Event%20Timeline.png" alt="" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/Event-Timeline/raw/main/assets/Event%20Timeline.gif" alt="" width="600px" /> </p> |
+| <p><img src="https://github.com/AswinBarath/Event-Timeline/raw/main/assets/Event%20Timeline.png" alt="Event Timeline Cover Design" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/Event-Timeline/raw/main/assets/Event%20Timeline.gif" alt="Event Timeline Demo" width="600px" /> </p> |
 
 ---
 
@@ -84,8 +84,8 @@ because it keeps the focus more squarely on what's web experience related.
 
 | [Github Repository](https://github.com/AswinBarath/Clothing-e-Commerce) | [Deployed Link]() |
 | --- | --- |
-<!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+| Project Cover Design | Project Demo |
+| <p><img src="https://github.com/AswinBarath/Clothing-e-Commerce/raw/main/assets/Clothing%20e-Commerce%20App%20Cover%20Design.png" alt="Clothing e-Commerce App Cover Design" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/Clothing-e-Commerce/raw/main/assets/3%20Homepage%20animations.gif" alt="Clothing e-Commerce App Demo" width="600px" /> </p> |
 
 ---
 ---
