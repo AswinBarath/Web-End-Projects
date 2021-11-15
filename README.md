@@ -21,13 +21,13 @@ because it keeps the focus more squarely on what's web experience related.
 | [SQL Injection and Prevention (LAMP Stack)](#sql-injection-and-prevention) | [](#) | [](#) | [Picture in Picture App](#picture-in-picture-app) | [Book-Information-2.0](#Book-Information-2.0) |
 | [Event Timeline](#event-timeline) | [](#) | [](#) | [Infinite Scroll](#infinite-scroll) | [Book-Information](#Book-Information) |
 | [Clothing e-Commerce App (MERN Stack)](#clothing-e-commerce-app) | [](#) | [](#) | [Photo Sharing App](#photo-sharing-app) | [](#) |
-| [](#) | [](#) | [](#) | [Joke Teller App](#joke-teller-app) | [](#) |
+| [Blogfolio Website](#blogfolio-website) | [](#) | [](#) | [Joke Teller App](#joke-teller-app) | [](#) |
 | [](#) | [](#) | [](#) | [Authentication Boilerplate](#authentication-boilerplate) | [](#) |
 | [](#) | [](#) | [](#) | [To Do With Auth](#to-do-with-auth) | [](#) |
 | [](#) | [](#) | [](#) | [Calendar Project](#calendar-project) | [](#) |
 | [](#) | [](#) | [](#) | [Background Generator](#background-generator) | [](#) |
 | [](#) | [](#) | [](#) | [Dynamic Chat App](#dynamic-chat-app) | [](#) |
-| [](#) | [](#) | [](#) | [Blogfolio Website](#blogfolio-website) | [](#) |
+| [](#) | [](#) | [](#) | [](#) | [](#) |
 | [](#) | [](#) | [](#) | [](#) | [](#) |
 
 ---
@@ -86,6 +86,15 @@ because it keeps the focus more squarely on what's web experience related.
 | --- | --- |
 | Project Cover Design | Project Demo |
 | <p><img src="https://github.com/AswinBarath/Clothing-e-Commerce/raw/main/assets/Clothing%20e-Commerce%20App%20Cover%20Design.png" alt="Clothing e-Commerce App Cover Design" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/Clothing-e-Commerce/raw/main/assets/3%20Homepage%20animations.gif" alt="Clothing e-Commerce App Demo" width="600px" /> </p> |
+
+---
+
+### Blogfolio Website
+
+| [Github Repository](https://github.com/AswinBarath/aswinbarath.github.io) | [Deployed Link](https://aswinbarath.github.io/) |
+| --- | --- |
+| Project Cover Design | Project Demo |
+| <p><img src="https://github.com/AswinBarath/aswinbarath.github.io/raw/main/assets/img/Blogfolio%20Cover%20Design.png" alt="Blogfolio Website Cover Design" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/aswinbarath.github.io/raw/main/assets/gif/Blogfolio%20Demo.gif" alt="Blogfolio Website Demo" width="600px" /> </p> |
 
 ---
 ---
@@ -187,15 +196,6 @@ because it keeps the focus more squarely on what's web experience related.
 ---
 
 ## Vanilla JavaScript Projects
-
-### Blogfolio Website
-
-| [Github Repository](https://github.com/AswinBarath/aswinbarath.github.io) | [Deployed Link](https://aswinbarath.github.io/) |
-| --- | --- |
-<!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="Blogfolio Website Cover Design" width="600px" /></p> | <p><img src="" alt="Blogfolio Website Demo" width="600px" /> </p> | -->
-
----
 
 ### Dynamic Chat App
 
