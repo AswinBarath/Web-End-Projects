@@ -255,8 +255,8 @@ because it keeps the focus more squarely on what's web experience related.
 
 | [Github Repository](https://github.com/AswinBarath/Picture-in-Picture) | [Deployed Link](https://aswinbarath.github.io/Picture-in-Picture/) |
 | --- | --- |
-<!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="Picture in Picture App Cover Design" width="600px" /></p> | <p><img src="" alt="Picture in Picture App Demo" width="600px" /> </p> | -->
+| Project Cover Design | Project Demo |
+| <p><img src="https://github.com/AswinBarath/Picture-in-Picture/raw/main/assets/Picture%20in%20Picture%20Cover%20Design.png" alt="Picture in Picture App Cover Design" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/Picture-in-Picture/raw/main/assets/Picture%20in%20Picture%20Demo.gif" alt="Picture in Picture App Demo" width="600px" /> </p> |
 
 ---
 
