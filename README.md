@@ -246,8 +246,8 @@ because it keeps the focus more squarely on what's web experience related.
 
 | [Github Repository](https://github.com/AswinBarath/infinte-scroll) | [Deployed Link](https://aswinbarath.github.io/infinte-scroll/) |
 | --- | --- |
-<!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="Infinite Scroll Cover Design" width="600px" /></p> | <p><img src="" alt="Infinite Scroll Demo" width="600px" /> </p> | -->
+| Project Cover Design | Project Demo |
+| <p><img src="https://github.com/AswinBarath/infinte-scroll/raw/main/assets/Infinite%20Scroll%20Cover%20Design.png" alt="Infinite Scroll Cover Design" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/infinte-scroll/raw/main/assets/Infinite%20Scroll%20Demo.gif" alt="Infinite Scroll Demo" width="600px" /> </p> |
 
 ---
 
