@@ -136,7 +136,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/Tesla-clone) | [Deployed Link](https://tesla-clone-app.herokuapp.com/) |
 | --- | --- |
 | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/tesla-clone/raw/main/public/demo/TeslaCloneDemo.gif" alt="" width="600px" /> </p> |
+| <p><img src="" alt="Tesla Landing Page Cover Design" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/tesla-clone/raw/main/public/demo/TeslaCloneDemo.gif" alt="" width="600px" /> </p> |
 
 --- 
 
@@ -145,7 +145,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/Disney-plus-clone) | [Deployed Link]() |
 | --- | --- |
 <!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+| <p><img src="" alt="Disney plus clone Cover Design" width="600px" /></p> | <p><img src="" alt="Disney plus clone demo" width="600px" /> </p> | -->
 
 --- 
 
@@ -154,7 +154,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/) | [Deployed Link]() |
 | --- | --- |
 | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> |
+| <p><img src="" alt="Project Cover Design" width="600px" /></p> | <p><img src="" alt="Project Demo" width="600px" /> </p> |
 
 --- 
 
@@ -163,7 +163,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/) | [Deployed Link]() |
 | --- | --- |
 | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> |
+| <p><img src="" alt="Project Cover Design" width="600px" /></p> | <p><img src="" alt="Project Demo" width="600px" /> </p> |
 
 --- 
 
@@ -172,7 +172,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/) | [Deployed Link]() |
 | --- | --- |
 | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> |
+| <p><img src="" alt="Project Cover Design" width="600px" /></p> | <p><img src="" alt="Project Demo" width="600px" /> </p> |
 
 --- 
 
@@ -181,7 +181,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/) | [Deployed Link]() |
 | --- | --- |
 | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+| <p><img src="" alt="Project Cover Design" width="600px" /></p> | <p><img src="" alt="Project Demo" width="600px" /> </p> | -->
 
 ---
 ---
@@ -192,8 +192,8 @@ because it keeps the focus more squarely on what's web experience related.
 
 | [Github Repository](https://github.com/AswinBarath/aswinbarath.github.io) | [Deployed Link](https://aswinbarath.github.io/) |
 | --- | --- |
-| Project Cover Design | Project Demo |
-| <p><img src="" alt="Blogfolio Website Cover Design" width="600px" /></p> | <p><img src="" alt="Blogfolio Website Demo" width="600px" /> </p> |
+<!-- | Project Cover Design | Project Demo |
+| <p><img src="" alt="Blogfolio Website Cover Design" width="600px" /></p> | <p><img src="" alt="Blogfolio Website Demo" width="600px" /> </p> | -->
 
 ---
 
@@ -202,7 +202,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/Dynamic-chat-app) | [Deployed Link](https://dynamic-chat-app.web.app/) |
 | --- | --- |
 <!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+| <p><img src="" alt="Dynamic Chat App Cover Design" width="600px" /></p> | <p><img src="" alt="Dynamic Chat App Demo" width="600px" /> </p> | -->
 
 ---
 
@@ -211,7 +211,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/to-do-with-auth) | [Deployed Link]() |
 | --- | --- |
 <!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+| <p><img src="" alt="To Do With Auth Cover Design" width="600px" /></p> | <p><img src="" alt="To Do With Auth Demo" width="600px" /> </p> | -->
 
 ---
 
@@ -220,7 +220,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/authentication-boilerplate) | [Deployed Link]() |
 | --- | --- |
 <!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+| <p><img src="" alt="Authentication Boilerplate Cover Design" width="600px" /></p> | <p><img src="" alt="Authentication Boilerplate Demo" width="600px" /> </p> | -->
 
 ---
 
@@ -229,7 +229,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/photo-sharing-app) | [Deployed Link](https://photo-sharing-app-1dd43.web.app/) |
 | --- | --- |
 <!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+| <p><img src="" alt="Photo Sharing App Cover Design" width="600px" /></p> | <p><img src="" alt="Photo Sharing App Demo" width="600px" /> </p> | -->
 
 ---
 
@@ -238,7 +238,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/Joke-teller) | [Deployed Link](https://aswinbarath.github.io/Joke-teller/) |
 | --- | --- |
 <!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+| <p><img src="" alt="Joke Teller App Cover Design" width="600px" /></p> | <p><img src="" alt="Joke Teller App Demo" width="600px" /> </p> | -->
 
 ---
 
@@ -247,7 +247,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/infinte-scroll) | [Deployed Link](https://aswinbarath.github.io/infinte-scroll/) |
 | --- | --- |
 <!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+| <p><img src="" alt="Infinite Scroll Cover Design" width="600px" /></p> | <p><img src="" alt="Infinite Scroll Demo" width="600px" /> </p> | -->
 
 ---
 
@@ -256,7 +256,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/Picture-in-Picture) | [Deployed Link](https://aswinbarath.github.io/Picture-in-Picture/) |
 | --- | --- |
 <!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+| <p><img src="" alt="Picture in Picture App Cover Design" width="600px" /></p> | <p><img src="" alt="Picture in Picture App Demo" width="600px" /> </p> | -->
 
 ---
 
@@ -264,8 +264,8 @@ because it keeps the focus more squarely on what's web experience related.
 
 | [Github Repository](https://github.com/AswinBarath/quote-generator) | [Deployed Link](https://aswinbarath.github.io/quote-generator/) |
 | --- | --- |
-<!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+| Project Cover Design | Project Demo |
+| <p><img src="https://github.com/AswinBarath/quote-generator/raw/main/assets/Quote%20Generator%20Cover%20Design.png" alt="Quote Generator Cover Design" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/quote-generator/raw/main/assets/Quote%20Generator%20Demo.gif" alt="Quote Generator Demo" width="600px" /> </p> |
 
 ---
 
