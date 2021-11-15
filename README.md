@@ -291,8 +291,8 @@ because it keeps the focus more squarely on what's web experience related.
 
 | [Github Repository](https://github.com/AswinBarath/Background-generator) | [Deployed Link](https://aswinbarath.github.io/Background-generator/) |
 | --- | --- |
-<!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+| Project Cover Design | Project Demo |
+| <p><img src="https://github.com/AswinBarath/Background-generator/raw/main/assets/Background%20Generator%20Cover%20Design.png" alt="Background Generator Project Cover Design" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/Background-generator/raw/main/assets/Background%20Generator%20Demo.gif" alt="Background Generator Demo" width="600px" /> </p> |
 
 ---
 
@@ -300,8 +300,8 @@ because it keeps the focus more squarely on what's web experience related.
 
 | [Github Repository](https://github.com/AswinBarath/calendar-project) | [Deployed Link](https://aswinbarath.github.io/calendar-project/) |
 | --- | --- |
-<!-- | Project Cover Design | Project Demo |
-| <p><img src="" alt="" width="600px" /></p> | <p><img src="" alt="" width="600px" /> </p> | -->
+| Project Cover Design | Project Demo |
+| <p><img src="https://github.com/AswinBarath/calendar-project/raw/master/assets/Calendar%20Project%20Cover%20Design.png" alt="Calendar Cover Design" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/calendar-project/raw/master/assets/Calender%20Project%20Demo.gif" alt="Calendar Project Demo" width="600px" /> </p> |
 
 ---
 
