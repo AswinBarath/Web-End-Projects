@@ -145,7 +145,7 @@ because it keeps the focus more squarely on what's web experience related.
 | [Github Repository](https://github.com/AswinBarath/Tesla-clone) | [Deployed Link](https://tesla-clone-app.herokuapp.com/) |
 | --- | --- |
 | Project Cover Design | Project Demo |
-| <p><img src="" alt="Tesla Landing Page Cover Design" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/tesla-clone/raw/main/public/demo/TeslaCloneDemo.gif" alt="" width="600px" /> </p> |
+| <p><img src="https://github.com/AswinBarath/tesla-clone/raw/main/assets/Tesla%20Clone%20Cover%20Design.png" alt="Tesla Landing Page Cover Design" width="600px" /></p> | <p><img src="https://github.com/AswinBarath/tesla-clone/raw/main/public/demo/TeslaCloneDemo.gif" alt="" width="600px" /> </p> |
 
 --- 
 
