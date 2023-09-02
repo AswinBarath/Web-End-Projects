@@ -1,5 +1,9 @@
 # Web End Projects
 
+<p>
+<img src="assets/Web%20End%20Projects.png" alt="JU Query Cover Design" width=800px />
+</p>
+
 > "Web-End" tries to unify "Front-End" and "Back-End" in a better and more focused way than "Full Stack" does,
 because it keeps the focus more squarely on what's web experience related.
 >
